@@ -12,7 +12,6 @@ import Notice from "./pages/Notice";
 
 
 function App() {
-
   const Layout = () => {
     return (
       <div className="">
